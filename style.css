@@ -1,5 +1,5 @@
 #java{
-    width: 4000px;
+    width: 400px;
     font-size: x-small;
     height: 200px;
     background-color: rgb(255, 38, 0);
@@ -13,3 +13,12 @@ body{
     background-color: rgb(136, 231, 199);
 }
 
+
+.header{
+    text-align: center;
+    background-color: blueviolet;
+    width: 500px;
+    height: 300px;
+    border-style: solid;
+    border: 15px;
+}
